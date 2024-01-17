@@ -1,0 +1,64 @@
+.bg_def {
+    background: #F9F9F9;
+}
+
+.menubox {
+    width: 20%;
+}
+
+.contentbox {
+    width: 80%;
+}
+
+.conboxup {
+    height: 12vh;
+}
+
+.conboxdw {
+    height: 88vh;
+}
+
+.tichartdash {
+    color: #0F172A;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -0.1px;
+    margin-left: -10px;
+}
+
+.tichartdash2 {
+    color: #0F172A;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -0.1px;
+}
+
+.bg_scanbox01dash {
+    border-radius: 6px;
+    background: #FFF;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 4px;
+}
+
+.bg_scanbox02dash {
+    border-radius: 6px;
+    background: #FFF;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* margin-bottom: 1%; */
+    /* height: 100%; */
+}
+
+.nesadash {
+    border-radius: 6px;
+    border: 1px solid var(--slate-300, #CBD5E1);
+    background: var(--white, #FFF);
+    cursor: pointer;
+}
+.newtabledash thead tr th,
+    .newtabledash tbody tr td{
+    border: none !important;
+}
